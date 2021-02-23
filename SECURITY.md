@@ -1,5 +1,5 @@
 # Reporting a security issue
-sfdsa
+
 The Prometheus security policy, including how to report vulnerabilities, can be
 found here:
 
